@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\bin\Debug\netcoreapp2.0\Lab27Tom.deps.json
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\bin\Debug\netcoreapp2.0\Lab27Tom.runtimeconfig.json
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\bin\Debug\netcoreapp2.0\Lab27Tom.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\bin\Debug\netcoreapp2.0\Lab27Tom.dll
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\obj\Debug\netcoreapp2.0\Lab27Tom.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\obj\Debug\netcoreapp2.0\Lab27Tom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\obj\Debug\netcoreapp2.0\Lab27Tom.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\obj\Debug\netcoreapp2.0\Lab27Tom.AssemblyInfo.cs
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\bin\Debug\netcoreapp2.0\Lab27Tom.pdb
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\obj\Debug\netcoreapp2.0\Lab27Tom.dll
+C:\Users\Tom\source\repos\Lab27-Identity-Day2\Lab27Tom\obj\Debug\netcoreapp2.0\Lab27Tom.pdb

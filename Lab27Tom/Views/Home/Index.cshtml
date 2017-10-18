@@ -1,0 +1,12 @@
+﻿@model List<Lab27Tom.Models.LFG>
+
+@{
+    Layout = null;
+}
+
+@foreach (var item in Model)
+{
+    <h2>@item.Gamertag</h2>
+    <h3>@item.DestinyClass</h3>
+    <p>@item.Request</p>
+}
