@@ -4,9 +4,19 @@
     Layout = "_Layout";
 }
 
+<div class="guardian-title">
+    <h1>Guardian LFG</h1>
+    <h2>Find your perfect fireteam and get that loot!</h2>
+
+    <img src="~/img/destiny22.png" />
+</div>
+
+
 @foreach (var item in Model)
 {
-    <h2>@item.Gamertag</h2>
-    <h3>@item.DestinyClass</h3>
-    <p>@item.Request</p>
+    <div class="lfg-content">
+        <h3>@item.Gamertag</h3>
+        <h4>@item.DestinyClass</h4>
+        <p>@item.Request</p>
+    </div>
 }
